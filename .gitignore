@@ -1,0 +1,18 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+
+
+# Binaries
+core
+
+# Mac
+.DS_Store
+
+# Resources
+pj-lester-book
+pj-lester.pdf
